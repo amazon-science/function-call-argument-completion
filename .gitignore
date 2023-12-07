@@ -133,6 +133,5 @@ data/
 *.bin*
 *.lr
 *.pt
-*.sh
 # Pyre type checker
 .pyre/
